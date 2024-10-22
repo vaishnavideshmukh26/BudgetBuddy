@@ -1,0 +1,11 @@
+.divider:after,
+.divider:before {
+content: "";
+flex: 1;
+height: 1px;
+background: #eee;
+}
+.texcol{
+    font-size: 14 px;
+    color: #322348;
+}
